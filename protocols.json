@@ -10,7 +10,7 @@
 		{
 			"name":"FTP",
 			"port":"21",
-			"details":"file transfert protocol"
+			"details":"file transfert protocol",
 			"type":"application"
 		}
 
