@@ -1,9 +1,20 @@
 {
 	"protocols":[
-		"name":"http",
+		{
+			"name":"http",
 		"port":"80",
 		"details":"Hyper TTT",
 		"type":"application",
 		"description":"Ma description"
+		},
+		{
+			"name":"FTP",
+			"port":"21",
+			"details":"file transfert protocol"
+			"type":"application"
+		}
+
+		
 	]
+
 }
